@@ -1,0 +1,28 @@
+_repo: Im-Morgenlicht-Kriegs-Jagd-und-Reise-Erlebnisse-in-Ostafrika_63601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Paasche, Hans
+    birthdate: 1881
+    deathdate: 1920
+    gutenberg_agent_id: '52515'
+    url: http://www.gutenberg.org/2009/agents/52515
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Hans_Paasche
+    - https://de.wikipedia.org/wiki/Hans_Paasche
+description: ''
+gutenberg_issued: '2020-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63601'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'German East Africa -- Description and travel'
+- !lcsh 'Hunting -- German East Africa'
+- GITenberg
+title: Im Morgenlicht. Kriegs-, Jagd- und Reise-Erlebnisse in Ostafrika
+url: http://www.gutenberg.org/ebooks/63601
